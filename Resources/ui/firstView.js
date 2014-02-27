@@ -1,3 +1,13 @@
+/* *****
+ * 
+ *  Created @ade mahendra
+ */
+
+// make global
+
+var testingglobal = null;
+
+
 var win = Titanium.UI.createWindow({
     title: 'Leisure',
     backgroundColor: '#fff',
